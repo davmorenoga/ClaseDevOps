@@ -1,0 +1,7 @@
+name: IdeaDelPipeline
+on: [push]
+jobs:
+  hello-world:
+    steps:
+      - run: echo "Hello world"
+      - 
